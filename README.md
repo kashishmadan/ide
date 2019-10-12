@@ -1,20 +1,20 @@
 # :red_circle: Coding Blocks IDE :white_circle:
 Coding Blocks IDE is an online IDE which supports compilation of multiple programming languages. 
 
-## Deployment
+## Deployment :rocket:
 
 [![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://app.netlify.com/sites/cb-ide)  
 Commits to master and PRs are automatically built and deployed by Netlify
 
 ![image](https://user-images.githubusercontent.com/22571395/40135873-ffe73618-5963-11e8-85db-01c103688f4a.png)
 
-## Table of Contents
+## Table of Contents :pencil:
 - [Build Setup](#build-setup)
 - [Features](#features)
 - [Functions](#functions)
 - [API](#api)
   
-## Build Setup
+## Build Setup :wrench:
 
 ``` bash
 # install dependencies
@@ -32,7 +32,7 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Features
+## Features :sparkles:
 This responsive online code editor and compiler have the following features.
 
 |Feature|Deatils|
@@ -47,7 +47,7 @@ This responsive online code editor and compiler have the following features.
 |**Fonts**|7 different fonts for the editor.|
 |**Font Size**|User can also set font size for the editor.|
 
-## Functions
+## Functions :zap:
 |Button|Function|
 |------|--------|
 |**Run**|Use the button to compile the code.|
@@ -58,7 +58,7 @@ This responsive online code editor and compiler have the following features.
 |**DOWNLOAD**|Use the button to download the code in the editor into a file.|
 |**Custom Input**|Use to toggle custom input box.|
 
-## API 
+## API :books:
 This hits the Coding Blocks Judge API, which you can find documented here
 
 <https://codingblocks.com/judge-blocks-docs/>
