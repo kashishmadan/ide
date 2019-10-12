@@ -1,4 +1,4 @@
-# Coding Blocks IDE  
+# :red_circle: Coding Blocks IDE :white_circle:
 Coding Blocks IDE is an online IDE which supports compilation of multiple programming languages. 
 
 ## Deployment
